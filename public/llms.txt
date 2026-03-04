@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover accurate, real-time values for every Adopt Me pet and item. Trusted by thousands of players for fair trades. Start winning trades today!
+
+### Method
+https://example.com/method
+Learn our proven methodology for tracking Adopt Me values. Transparent, data-driven, and updated daily to keep you ahead in every trade you make.
+
+### Item Directory
+https://example.com/directory
+Search our complete directory of Adopt Me pets, vehicles, and items with live values. Find exactly what you need in seconds and trade smarter than ever.
+
+### Contact
+https://example.com/contact
+Have questions or spot an outdated value? Reach out to our team. We respond quickly to help Adopt Me players trade with confidence every single day.
+
+### Products
+https://example.com/products
+Our Products - Conbat value
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Conbat value
+
+### Category
+https://example.com/category/:slug
+Products - Conbat value
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
